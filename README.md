@@ -65,7 +65,7 @@ Choosing where and how to seperate our page into components will depend on how e
 ![](./images/reddit.png)
 ![](./images/redditcomponents.png)
 
-##Let's get started!
+## Let's get started!
 
 The first thing we need is NodeJs, which allows us to run the JavaScript environment on our local machines.
 
@@ -143,7 +143,7 @@ We need to make sure that we import the useState method at the beginning of our 
 
 	import React, {useState} from 'react'
 	
-Our hooke will be declared like so:
+Our hook will be declared like so:
 
 	const [name, setName] = useState('Jordan Walke')
 	
