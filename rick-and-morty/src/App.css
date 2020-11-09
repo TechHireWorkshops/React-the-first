@@ -1,0 +1,45 @@
+.app {
+  text-align: center;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 3vh 5vw;
+  align-items: center;
+  border-bottom: 1px solid black;
+}
+
+header img {
+  height: 5vh;
+  width: 5vh;
+}
+
+.hero {
+  height: 40vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('https://pyxis.nymag.com/v1/imgs/cd8/804/e0f612fa12d17e68e3d68ccf55f93cac4f-06-rick-morty.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.about {
+  width: 70%;
+  margin: 3vh auto;
+  border: 1px solid black;
+}
+
+.character-flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.card {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 30%;
+}
