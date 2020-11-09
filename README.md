@@ -1,6 +1,6 @@
 # REACT!
 
-React is 'A JavaScript library for building user interfaces.' Its a way to make front-end webpages. React is a solution to the problem of how to build large webpages with data that changes over time. DOM manipulation on webpages can be costly and slow, as our browsers read the DOM tree to find and effect changes, and React can mitigate a lot of this.
+React is 'A JavaScript library for building user interfaces.' It's a way to make front-end webpages. React is a solution to the problem of how to build large webpages with data that changes over time. DOM manipulation on webpages can be costly and slow, as our browsers read the DOM tree to find and effect changes, and React can mitigate a lot of this.
 
 ## So what? How is this better than some HTML/JS/CSS files?
 
